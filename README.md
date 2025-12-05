@@ -23,4 +23,5 @@ Template for the assignment was provided by Janell Baxter, and help was provided
 
 ### Project 3: Interactive Website
 This is an HTML, CSS, and JS website aiming to help university and college student who, like myself, struggle a lot with mental health and self worth. It was definitly a challenged to dive so deep into my own personal feelings, but I choose to take a personal lense to better relate to my target audience. The hardest part was getting the formatting of the pages to look how I wanted, and while it's certainly not perfect, I do think it turned out pretty good given my limited experience with CSS and HTML.
+https://github.com/oliverbush9001/Code102.InteractiveWebsite
 <img width="1329" height="904" alt="Website Project Screenshot" src="https://github.com/user-attachments/assets/4b27af9c-5810-419f-8f39-40e83d7fc129" />
