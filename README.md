@@ -1,8 +1,13 @@
 [In Class FlowChart _WIP_.html](https://github.com/user-attachments/files/23972421/In.Class.FlowChart._WIP_.html)# oliverbush9001-github.io
 ## Programming Portfolio
-###Project 1: Analyze and Evaluate
-In this project, we were tasked to explore a way that algorithms and AI impact our potenial career path, and present our findings in an interactive format. I choose to use the software Twine, and I explored how AI impact Voiceover artists and the profession of professional voiceover work.
+### Composition Creator
+This assignment using Processing to randomly generate a background color and place a public domain image of a comet over a city with a random position and random dimensions. I was very happy with this as taking an image from the internet meant my algorithm would function without having to download an image. Below are a couple example images.
+<img width="937" height="533" alt="Screenshot 2025-12-05 175108" src="https://github.com/user-attachments/assets/2d3f8db9-bd91-4339-b2f7-b0efff00b571" />
+<img width="933" height="530" alt="Screenshot 2025-12-05 175128" src="https://github.com/user-attachments/assets/fafed27e-1378-4d39-813c-bff7129e882e" />
 
+
+### Project 1: Analyze and Evaluate
+In this project, we were tasked to explore a way that algorithms and AI impact our potenial career path, and present our findings in an interactive format. I choose to use the software Twine, and I explored how AI impact Voiceover artists and the profession of professional voiceover work.
 <img width="1155" height="573" alt="Screenshot 2025-12-05 172558" src="https://github.com/user-attachments/assets/86506205-48da-4a11-9ac1-525e749d97f4" />
 
 ### Weather Data Visualization
@@ -15,3 +20,7 @@ We were challenged to improve the game in some way, and I choose to add an optio
 Template for the assignment was provided by Janell Baxter, and help was provided by Ann Marie Evans, my partner.
 <img width="1919" height="661" alt="Rubber Duck Guessing Game V1" src="https://github.com/user-attachments/assets/bf709d31-e9b1-4150-8073-56ae0beb3d68" />
 <img width="1919" height="661" alt="Rubber Duck Guessing Game V1" Screenshot src="https://github.com/user-attachments/assets/e9c28724-8d75-4ffc-8521-6db56a7c91e8" />
+
+### Project 3: Interactive Website
+This is an HTML, CSS, and JS website aiming to help university and college student who, like myself, struggle a lot with mental health and self worth. It was definitly a challenged to dive so deep into my own personal feelings, but I choose to take a personal lense to better relate to my target audience. The hardest part was getting the formatting of the pages to look how I wanted, and while it's certainly not perfect, I do think it turned out pretty good given my limited experience with CSS and HTML.
+<img width="1329" height="904" alt="Website Project Screenshot" src="https://github.com/user-attachments/assets/4b27af9c-5810-419f-8f39-40e83d7fc129" />
